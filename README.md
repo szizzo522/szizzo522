@@ -1,8 +1,4 @@
 
-"Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide." – Spock
-
----
-
 ## 👨‍💻 About Me
 Computer Science student focused on **Cybersecurity, Automation, and Systems Analysis**.
 
@@ -95,9 +91,3 @@ I enjoy building practical tools, learning how systems fail, and improving secur
 ## ⚡ Fun Fact
 I automate things so I don’t have to do them twice.  
 Don’t expose your API keys.
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/szizzo522
-- LinkedIn: *(add your link here)*
