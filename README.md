@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <i>"Leave the gun. Take the cannoli."</i>
+  <i>"Leave the gun. Take the cannoli. - Mr. Clemenza"</i>
 </p>
 
 
