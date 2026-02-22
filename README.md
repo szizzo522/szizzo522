@@ -1,4 +1,13 @@
 
+<p align="center">
+  <img src="assets/Peter Clemenza Cannoli.jpg" width="400">
+</p>
+
+<p align="center">
+  <i>"Leave the gun. Take the cannoli."</i>
+</p>
+
+
 ## 👨‍💻 About Me
 Computer Science student focused on **Cybersecurity, Automation, and Systems Analysis**.
 
