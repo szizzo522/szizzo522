@@ -1,4 +1,5 @@
-🖖 "Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide." – Spock
+
+"Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide." – Spock
 
 ---
 
