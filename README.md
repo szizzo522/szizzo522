@@ -57,45 +57,6 @@ I enjoy building practical tools, learning how systems fail, and improving secur
 
 ---
 
-## 🚀 Current Focus
-- Cybersecurity automation projects
-- SOC analyst skill development
-- Threat detection & analysis
-- Python-based tooling
-
----
-
-## 🔭 Current Projects
-- Python Desktop Calculator
-- Vision-Based Problem Solver
-- Secure File Scanner
-- Automation Utilities
-
----
-
-## 🌱 Currently Learning
-- AWS Cloud Fundamentals
-- SIEM & Log Analysis
-- Incident Response Workflows
-- Detection Engineering
-
----
-
-## 🏆 Competitions & Practice
-- National Cyber League (NCL)
-- Hack The Box
-- PicoCTF
-- TryHackMe
-
----
-
-## 🤝 Interests
-- Cybersecurity Defense
-- Automation
-- Aviation & Space
-- Systems Engineering
-
----
 
 ## ⚡ Fun Fact
 I automate things so I don’t have to do them twice.  
