@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <i>"Leave the gun. Take the cannoli." - Peter Clemenza</i>
+  <i>"Take the cannoli." - Peter Clemenza</i>
 </p>
 
 
